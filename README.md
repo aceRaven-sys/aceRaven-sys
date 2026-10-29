@@ -1,16 +1,18 @@
-## Hi there 👋
+# Raven Jaime
 
-<!--
-**aceRaven-sys/aceRaven-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Software Engineer** interested in application and game development. I enjoy collaborating with teams, applying object-oriented design, and learning new tools through hands-on projects.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages:** Java, C++, Python, JavaScript, GDScript, HTML, CSS  
+**Tools:** Git, JavaFX, JUnit, Godot, Tableau, UNIX/Linux, Figma
+
+## Projects
+
+- **The Coding Zoo** — A Java desktop app for practicing coding interview questions and tracking progress. *Private team repository.*
+- **[Handle With Care](https://github.com/maximusf/handle-with-care)** — A completed 2D package-kicking game built with teammates in Godot. Windows download available in the repository.
+- **[Rat King](https://github.com/reymenli/rat-king)** — A 3D puzzle game about commanding rats to escape a lab. *Currently planning with the team.*
+
+## Contact
+
+[ravenace.j@gmail.com](mailto:ravenace.j@gmail.com)
